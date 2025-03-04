@@ -1,0 +1,2 @@
+chrom	length
+21	48129895
